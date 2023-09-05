@@ -28,6 +28,7 @@ Repositório para equipe que desenvolverá um sistema para criação de um site 
 
 11- Fornecer um mecanismo de armazenamento permanente de dados;
 
+ALUNOS: CAROLINE VITORIA, NICOLAS ANTONIO, LEONARDO SANTOS, RHAYELLE FROIS E EMILLY GABRIELE
 # Requisitos não funcionais:
 1 - Levar um tempo máximo de 5 segundo de resposta ao finalizar o cadastro;
 
