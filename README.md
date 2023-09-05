@@ -18,6 +18,14 @@ Repositório para equipe que desenvolverá um sistema para criação de um site 
 
 8 - O site deve apresentar os preços previamente, de acordo com a data, categoria e quantidade de pessoas;
 
+9 - calcular o total da venda corrente;
+
+10- Abater do estoque o item comprado;
+
+11- Ter segurança de dados e compras do usuario;
+
+12- Fornecer um mecanismo de armazenamento permanente de dados;
+
 # Requisitos não funcionais:
 1 - Levar um tempo máximo de 5 segundo de resposta ao finalizar o cadastro;
 
