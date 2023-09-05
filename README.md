@@ -26,9 +26,7 @@ Repositório para equipe que desenvolverá um sistema para criação de um site 
 
 10- Abater do estoque o item comprado;
 
-11- Ter segurança de dados e compras do usuario;
-
-12- Fornecer um mecanismo de armazenamento permanente de dados;
+11- Fornecer um mecanismo de armazenamento permanente de dados;
 
 # Requisitos não funcionais:
 1 - Levar um tempo máximo de 5 segundo de resposta ao finalizar o cadastro;
@@ -39,7 +37,7 @@ Repositório para equipe que desenvolverá um sistema para criação de um site 
 
 4 - Site usara norma PCI DSS para proteção dos pagamentos;
 
-5 - As informações cadastrais seram regulamentadas e protegidas pela regulamentação LGPD;
+5 - As informações cadastrais seram regulamentadas e protegidas pela LGPD;
 
 6 - Site deve atualizar os quartos disponiveis imediatamente, para que duas pessoas não consigam reservar o mesmo quarto;
 
