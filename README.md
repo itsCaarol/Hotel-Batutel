@@ -3,12 +3,19 @@
 Repositório para equipe que desenvolverá um sistema para criação de um site de reservas para hoteis, pousadas e resorts.
 # Requisitos Funcionais :
 1 - Exibir fotos das acomodações saparadas por categoria;
+
 2 - Possuir na tela inicial area para cadastro;
+
 3 - Possuir barra para seleção de intervalo de datas da hospedagem;
+
 4 - Possuir barra de seleção de numero de hospedes adultos e crianças;
+
 5 - Possuir espaço para observações para que o hospede envie uma mensagem previamente ao hotel;
+
 6 - Possuir a tela final com pagamento, por meio de pix, boleto e cartão de crédito e débito;
+
 7 - ao finalizar a reserva o site deve enviar o voucher pelo email cadastrado, alem de disponibiliza-lo tela;
+
 8 - O site deve apresentar os preços previamente, de acordo com a data, categoria e quantidade de pessoas;
 
 # Requisitos não funcionais:
