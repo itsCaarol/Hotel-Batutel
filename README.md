@@ -20,10 +20,16 @@ Repositório para equipe que desenvolverá um sistema para criação de um site 
 
 # Requisitos não funcionais:
 1 - Levar um tempo máximo de 5 segundo de resposta ao finalizar o cadastro;
+
 2 - Levar um tempo máximo de 30 segundos para envio do email com confirmação da reserva
+
 3 - Site no modelo HTTPS para a sua segurança
+
 4 - Site usara norma PCI DSS para proteção dos pagamentos;
+
 5 - As informações cadastrais seram regulamentadas e protegidas pela regulamentação LGPD;
+
 6 - Site deve atualizar os quartos disponiveis imediatamente, para que duas pessoas não consigam reservar o mesmo quarto;
+
 7 - O site deve ter uma interface intuitiva facilitando a experiência do usuário;
 
