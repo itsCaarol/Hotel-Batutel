@@ -1,7 +1,6 @@
 ![Logo do GitHub](https://github.com/itsCaarol/Hotel-Batutel/blob/main/MicrosoftTeams-image33333.png?raw=true)
 
-
-𝙎𝙄𝙏𝙀 𝘿𝙀 𝙍𝙀𝙎𝙀𝙍𝙑𝘼𝙎 𝘿𝙊 𝙃𝙊𝙏𝙀𝙇 𝙏𝙀𝙉𝘿𝙊 𝙁𝙊𝙏𝙊𝙎 𝘿𝙊 𝙃𝙊𝙏𝙀𝙇 𝙀 𝘿𝙊𝙎 𝙌𝙐𝘼𝙍𝙏𝙊𝙎, 𝙊𝙎 𝙋𝙍𝙀𝘾̧𝙊𝙎 𝙀 𝘼𝙑𝘼𝙇𝙄𝘼𝘾̧𝙊̃𝙀𝙎 𝙋𝘼𝙍𝘼 𝙌𝙐𝙀 𝙋𝙊𝙎𝙎𝘼 𝙀𝙎𝘾𝙊𝙇𝙃𝙀𝙍 𝙎𝙀𝙐 𝙌𝙐𝘼𝙍𝙏𝙊. 𝙏𝙀𝙉𝘿𝙊 𝘿𝘼𝘿𝙊𝙎 𝙋𝙀𝙎𝙎𝙊𝘼𝙄𝙎, 𝘿𝘼𝙏𝘼𝙎 𝙋𝘼𝙍𝘼 𝙍𝙀𝙎𝙀𝙍𝙑𝘼, 𝙋𝘼𝙂𝘼𝙈𝙀𝙉𝙏𝙊 𝙀 𝙑𝙊𝙐𝘾𝙃𝙀𝙍. 𝘾𝙊𝙈 𝙎𝙐𝙂𝙀𝙎𝙏𝙊̃𝙀𝙎 𝙎𝙊𝘽𝙍𝙀 𝙋𝘼𝙎𝙎𝙀𝙄𝙊𝙎/𝙋𝙊𝙉𝙏𝙊𝙎 𝙏𝙐𝙍𝙄́𝙎𝙏𝙄𝘾𝙊𝙎.
+O sirte irá permitir que os clientes naveguem pelo site, visualizem informações sobre quartos de hotel, efetuem reservas, façam pagamentos, e recebam sugestões com base em suas preferências
 
 Repositório para equipe que desenvolverá um sistema para criação de um site de reservas para hoteis, pousadas e resorts.
 
