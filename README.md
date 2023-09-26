@@ -1,31 +1,25 @@
 ![Logo do GitHub](https://github.com/itsCaarol/Hotel-Batutel/blob/main/MicrosoftTeams-image33333.png?raw=true)
 
-O sirte irá permitir que os clientes naveguem pelo site, visualizem informações sobre quartos de hotel, efetuem reservas, façam pagamentos, e recebam sugestões com base em suas preferências
+O site irá permitir que os clientes naveguem pelo site, visualizem informações sobre quartos de hotel, efetuem reservas e façam pagamentos.
 
 Repositório para equipe que desenvolverá um sistema para criação de um site de reservas para hoteis, pousadas e resorts.
 
 # Requisitos Funcionais :
-1 - Exibir fotos das acomodações saparadas por categoria;
+1 - Exibir fotos das acomodações separadas por categoria;
 
 2 - Possuir na tela inicial area para cadastro;
 
-3 - Possuir barra para seleção de intervalo de datas da hospedagem;
+3 - Possuir a tela final com pagamento, por meio de pix, boleto e cartão de crédito e débito;
 
-4 - Possuir barra de seleção de numero de hospedes adultos e crianças;
+4 - Ao finalizar a reserva o site deve enviar o voucher pelo email cadastrado, alem de disponibiliza-lo tela;
 
-5 - Possuir espaço para observações para que o hospede envie uma mensagem previamente ao hotel;
+5 - O site deve apresentar os preços previamente, de acordo com a data, categoria e quantidade de pessoas;
 
-6 - Possuir a tela final com pagamento, por meio de pix, boleto e cartão de crédito e débito;
+6 - calcular o preço total do quarto;
 
-7 - ao finalizar a reserva o site deve enviar o voucher pelo email cadastrado, alem de disponibiliza-lo tela;
+7- Bloquear os quartos reservados no sistema;
 
-8 - O site deve apresentar os preços previamente, de acordo com a data, categoria e quantidade de pessoas;
-
-9 - calcular o total da venda corrente;
-
-10- Abater do estoque o item comprado;
-
-11- Fornecer um mecanismo de armazenamento permanente de dados;
+8- Fornecer um mecanismo de armazenamento permanente de dados;
 
 
 # Requisitos não funcionais:
