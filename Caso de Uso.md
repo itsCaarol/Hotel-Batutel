@@ -8,24 +8,38 @@ Fluxo Básico:
 1.	O cliente acessa o site de reservas de quartos de hotel.
 2.	O cliente é redirecionado para a página inicial.
 3.	O cliente pode escolher entre as seguintes opções:
+
 •	Procurar quartos disponíveis.
+
 •	Visualizar quartos por tipo, preço ou avaliação.
+
 •	Ver sugestões personalizadas.
+
 •	Acessar sua área de cliente.
-•	Efetuar o logout.
+
 4.	Se o cliente escolher "Procurar quartos disponíveis":
+
 •	O cliente navega pelos quartos disponíveis.
+
 •	Pode ver informações detalhadas sobre cada quarto, incluindo fotos, preços e avaliações.
+
 •	O cliente pode selecionar um quarto e continuar para o processo de reserva.
 5.	Se o cliente escolher "Visualizar quartos por tipo, preço ou avaliação":
+
 •	O cliente pode filtrar os quartos por tipo (standard, luxo, single, duplo etc.), faixa de preço ou avaliação dos hóspedes.
+
 •	Os resultados são exibidos de acordo com os filtros escolhidos.
 6.	Se o cliente escolher "Acessar sua área de cliente":
+
 •	O cliente faz o login usando suas credenciais.
+
 •	O cliente pode visualizar suas reservas passadas, informações pessoais e configurações da conta.
 7.	Ao selecionar um quarto para reserva:
+
 •	O cliente é direcionado para uma página de reserva.
+
 •	O cliente insere as datas de check-in e check-out desejadas.
+
 •	O cliente revisa o resumo da reserva, incluindo o preço total.
 8.	O cliente clica em "Continuar para pagamento".
 9.	O sistema redireciona o cliente para a página de pagamento, onde ele pode escolher o método de pagamento preferido (cartão de crédito, PayPal, etc.).
