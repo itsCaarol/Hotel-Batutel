@@ -28,14 +28,26 @@ Fluxo Básico:
 9.	O sistema redireciona o cliente para a página de pagamento, onde ele pode escolher o método de pagamento preferido (cartão de crédito, PayPal, etc.).
 10.	O cliente insere os detalhes de pagamento e confirma a reserva.
 11.	O sistema confirma a reserva e exibe um número de confirmação.
+
 Fluxos Finais
+
 •	O cliente recebe um e-mail de confirmação da reserva.
+
 •	A reserva é registrada no sistema.
+
 •	Os quartos reservados são bloqueados para as datas selecionadas.
+
 •	O cliente pode visualizar a reserva em sua área de cliente.
+
 •	O cliente pode fazer o logout ou continuar navegando no site.
+
 Fluxos Alternativos:
+
 •	Se o cliente tentar reservar um quarto para datas que não estão disponíveis, o sistema exibirá uma mensagem de erro e solicitará que o cliente escolha outras datas.
+
 •	Se o pagamento falhar, o sistema informará o cliente e oferecerá a opção de tentar novamente ou escolher outro método de pagamento.
+
+
 •	Se o cliente esquecer as credenciais de login, ele pode solicitar uma redefinição de senha por e-mail.
+
 •	O cliente pode optar por não fazer login e apenas navegar pelo site, mas não poderá fazer reservas sem uma conta.
