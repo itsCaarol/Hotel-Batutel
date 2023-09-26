@@ -16,8 +16,6 @@ Fluxo Básico:
 
 •	Visualizar quartos por tipo, preço ou avaliação.
 
-•	Ver sugestões personalizadas.
-
 •	Acessar sua área de cliente.
 
 4.	Se o cliente escolher "Procurar quartos disponíveis":
