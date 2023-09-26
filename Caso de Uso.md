@@ -1,6 +1,9 @@
 Título: Hotel Batutel – Site de Reservas
+
 Ator Principal: Cliente
+
 Objetivo: Permitir que os clientes naveguem pelo site, visualizem informações sobre quartos de hotel, efetuem reservas e façam pagamentos.
+
 Fluxo Básico:
 1.	O cliente acessa o site de reservas de quartos de hotel.
 2.	O cliente é redirecionado para a página inicial.
